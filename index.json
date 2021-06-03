@@ -1,0 +1,10 @@
+{
+    "name": "bluu's Repo",
+    "path": "emotes",
+    "emotes" : [
+        {
+            "name": "fr",
+            "type": ".png"
+        }
+    ]
+}
