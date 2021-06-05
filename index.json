@@ -89,6 +89,22 @@
         {
             "name": "aeugh",
             "type": ".gif"
+        },
+        {
+            "name": "intjstage",
+            "type": ".png"
+        },
+        {
+            "name": "intjthink",
+            "type": ".png"
+        },
+        {
+            "name": "sadgesip",
+            "type": ".png"
+        },
+        {
+            "name": "sadge",
+            "type": ".png"
         }
     ]
 }
