@@ -55,7 +55,7 @@
             "type": ".png"
         },
         {
-            "name": "intjsneakattack",
+            "name": "sneakattack",
             "type": ".png"
         },
         {
@@ -85,6 +85,10 @@
         {
             "name": "evilpepe",
             "type": ".png"
+        },
+        {
+            "name": "aeugh",
+            "type": ".gif"
         }
     ]
 }
