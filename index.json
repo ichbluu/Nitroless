@@ -105,6 +105,10 @@
         {
             "name": "sadge",
             "type": ".png"
+        },
+        {
+            "name": "spunchbob",
+            "type": ".gif"
         }
     ]
 }
